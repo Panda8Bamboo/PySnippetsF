@@ -60,7 +60,7 @@ After installing the package, you can start using the snippets in your project:
 
 ```python
 # Example: Using a string manipulation snippet
-from pysnippets.strings import reverse_string
+from pysnippets.Strings.string_manipulation import reverse_string
 
 reversed_str = reverse_string("hello")
 print(reversed_str)  # Output: 'olleh'
